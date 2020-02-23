@@ -129,10 +129,13 @@ dmypy.json
 .pyre/
 
 # Dataset 
-.dataset/
+dataset/
 
 # Any Files Containing Dataset Information
 ds-*
+
+# Store files
+.DS_Store
 
 
 
